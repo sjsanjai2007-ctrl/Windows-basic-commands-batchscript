@@ -22,11 +22,15 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-Create a directory named "my-folder"
+## Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+```
+mkdir my-folder
+```
+<img width="742" height="245" alt="image" src="https://github.com/user-attachments/assets/382503ec-5492-4afa-9c23-7f25a25ba652" />
 
-Remove the directory "my-folder"
+## Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
