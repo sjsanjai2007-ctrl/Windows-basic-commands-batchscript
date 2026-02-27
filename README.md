@@ -24,7 +24,7 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 ## Create a directory named "my-folder"
 
-## COMMAND AND OUTPUT
+# COMMAND AND OUTPUT
 ```
 mkdir my-folder
 ```
