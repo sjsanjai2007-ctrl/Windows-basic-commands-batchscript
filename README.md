@@ -33,7 +33,10 @@ mkdir my-folder
 ## Remove the directory "my-folder"
 
 ### COMMAND AND OUTPUT
-
+```
+rmdir my-folder
+```
+<img width="418" height="33" alt="image" src="https://github.com/user-attachments/assets/c7fa4bf3-12b1-420c-92e5-e2a2be704a18" />
 
 ## Create the file Rose.txt
 
