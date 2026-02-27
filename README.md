@@ -24,7 +24,7 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 ## Create a directory named "my-folder"
 
-# COMMAND AND OUTPUT
+### COMMAND AND OUTPUT
 ```
 mkdir my-folder
 ```
@@ -32,38 +32,38 @@ mkdir my-folder
 
 ## Remove the directory "my-folder"
 
-## COMMAND AND OUTPUT
+### COMMAND AND OUTPUT
 
 
-Create the file Rose.txt
+## Create the file Rose.txt
 
-## COMMAND AND OUTPUT
-
-
-Create the file hello.txt using echo and redirection
-
-## COMMAND AND OUTPUT
-
-Copy the file hello.txt into the file hello1.txt
-
-## COMMAND AND OUTPUT
-
-Remove the file hello1.txt
-
-## COMMAND AND OUTPUT
-
-List out the file hello1.txt in the current directory
-
-## COMMAND AND OUTPUT
-
-List out all the associated file extensions 
-
-## COMMAND AND OUTPUT
+### COMMAND AND OUTPUT
 
 
-Compare the file hello.txt and rose.txt
+## Create the file hello.txt using echo and redirection
 
-## COMMAND AND OUTPUT
+### COMMAND AND OUTPUT
+
+## Copy the file hello.txt into the file hello1.txt
+
+### COMMAND AND OUTPUT
+
+## Remove the file hello1.txt
+
+### COMMAND AND OUTPUT
+
+## List out the file hello1.txt in the current directory
+
+### COMMAND AND OUTPUT
+
+## List out all the associated file extensions 
+
+### COMMAND AND OUTPUT
+
+
+## Compare the file hello.txt and rose.txt
+
+### COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
